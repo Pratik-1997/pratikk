@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/pratikk/static/css/main.29c79c38.chunk.css",
+    "main.js": "/pratikk/static/js/main.48520678.chunk.js",
+    "main.js.map": "/pratikk/static/js/main.48520678.chunk.js.map",
+    "runtime-main.js": "/pratikk/static/js/runtime-main.cab2a9a3.js",
+    "runtime-main.js.map": "/pratikk/static/js/runtime-main.cab2a9a3.js.map",
+    "static/js/2.1e46352e.chunk.js": "/pratikk/static/js/2.1e46352e.chunk.js",
+    "static/js/2.1e46352e.chunk.js.map": "/pratikk/static/js/2.1e46352e.chunk.js.map",
+    "index.html": "/pratikk/index.html",
+    "static/css/main.29c79c38.chunk.css.map": "/pratikk/static/css/main.29c79c38.chunk.css.map",
+    "static/js/2.1e46352e.chunk.js.LICENSE.txt": "/pratikk/static/js/2.1e46352e.chunk.js.LICENSE.txt",
+    "static/media/Azmotorexpress.94cee854.png": "/pratikk/static/media/Azmotorexpress.94cee854.png",
+    "static/media/Cv-img.081ca2b6.png": "/pratikk/static/media/Cv-img.081ca2b6.png",
+    "static/media/HTML.3de4a8c5.png": "/pratikk/static/media/HTML.3de4a8c5.png",
+    "static/media/MySQL.b0c61470.png": "/pratikk/static/media/MySQL.b0c61470.png",
+    "static/media/Photography-website.7f99753c.png": "/pratikk/static/media/Photography-website.7f99753c.png",
+    "static/media/Pratik Keluskar resume.93cca047.pdf": "/pratikk/static/media/Pratik Keluskar resume.93cca047.pdf",
+    "static/media/css.9058bae4.png": "/pratikk/static/media/css.9058bae4.png",
+    "static/media/developer-banner.84437258.jpg": "/pratikk/static/media/developer-banner.84437258.jpg",
+    "static/media/dog-bite-masters.c0118982.png": "/pratikk/static/media/dog-bite-masters.c0118982.png",
+    "static/media/e-shopping.b4ff5da9.png": "/pratikk/static/media/e-shopping.b4ff5da9.png",
+    "static/media/fitness.9d0c092c.png": "/pratikk/static/media/fitness.9d0c092c.png",
+    "static/media/java.8df75460.png": "/pratikk/static/media/java.8df75460.png",
+    "static/media/khashanlaw.97ef19bc.png": "/pratikk/static/media/khashanlaw.97ef19bc.png",
+    "static/media/laksn.3d870961.png": "/pratikk/static/media/laksn.3d870961.png",
+    "static/media/madamlu.6064efa7.png": "/pratikk/static/media/madamlu.6064efa7.png",
+    "static/media/php.a827981e.png": "/pratikk/static/media/php.a827981e.png",
+    "static/media/profile-photo-cropped.42403df8.jpg": "/pratikk/static/media/profile-photo-cropped.42403df8.jpg",
+    "static/media/react-logo.e310fdba.png": "/pratikk/static/media/react-logo.e310fdba.png",
+    "static/media/university.e83958ab.png": "/pratikk/static/media/university.e83958ab.png",
+    "static/media/vitality-wellness-clinic.e1b5c152.png": "/pratikk/static/media/vitality-wellness-clinic.e1b5c152.png",
+    "static/media/woodsplumbing.1c95cfe5.png": "/pratikk/static/media/woodsplumbing.1c95cfe5.png",
+    "static/media/wordpress.e34f2625.png": "/pratikk/static/media/wordpress.e34f2625.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cab2a9a3.js",
+    "static/js/2.1e46352e.chunk.js",
+    "static/css/main.29c79c38.chunk.css",
+    "static/js/main.48520678.chunk.js"
+  ]
+}
